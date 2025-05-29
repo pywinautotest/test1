@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file craeted
+=======
+test2.txt created
+>>>>>>> 38a804108e502ce23d7d612fe1890dfa359b95d2
